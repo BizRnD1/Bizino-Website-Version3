@@ -131,7 +131,7 @@ const we = () => {
             <p className='founder'>
               <b>
                 <i>
-                  <a>Suresh Dhamapurkar:</a> {"   "}
+                  Suresh Dhamapurkar: {"   "}
                 </i>
               </b>
               Director & Principal Consultant
@@ -141,7 +141,7 @@ const we = () => {
             <p className='founder'>
               <b>
                 <i>
-                  <a>Shilpa Dhamapurkar:</a> {"   "}
+                  Shilpa Dhamapurkar:{"   "}
                 </i>
               </b>
               Director & Technology Specialist
