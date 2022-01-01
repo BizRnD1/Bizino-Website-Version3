@@ -1,5 +1,5 @@
 import React from "react";
-import contactImg from "./images/contactImg.jpg";
+//import contactImg from "./images/contactImg.jpg";
 const contact =()=>{
     return (
       <div className='contactus'>

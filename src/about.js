@@ -1,5 +1,5 @@
 import React from "react";
-import valuebg from "./images/valueproposition-bg-blurred.jpg";
+//import valuebg from "./images/valueproposition-bg-blurred.jpg";
 const about=()=>{
   return (
     <section className='value-banner' id='vp'>
