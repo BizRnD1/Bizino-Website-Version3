@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bizino-website-version3/static/css/main.4b09e082.chunk.css",
+    "main.js": "/bizino-website-version3/static/js/main.692377da.chunk.js",
+    "main.js.map": "/bizino-website-version3/static/js/main.692377da.chunk.js.map",
+    "runtime-main.js": "/bizino-website-version3/static/js/runtime-main.456b9f76.js",
+    "runtime-main.js.map": "/bizino-website-version3/static/js/runtime-main.456b9f76.js.map",
+    "static/js/2.5c8b95ea.chunk.js": "/bizino-website-version3/static/js/2.5c8b95ea.chunk.js",
+    "static/js/2.5c8b95ea.chunk.js.map": "/bizino-website-version3/static/js/2.5c8b95ea.chunk.js.map",
+    "index.html": "/bizino-website-version3/index.html",
+    "precache-manifest.8930d1db227c4cc1b365ca4eaa1beb22.js": "/bizino-website-version3/precache-manifest.8930d1db227c4cc1b365ca4eaa1beb22.js",
+    "service-worker.js": "/bizino-website-version3/service-worker.js",
+    "static/css/main.4b09e082.chunk.css.map": "/bizino-website-version3/static/css/main.4b09e082.chunk.css.map",
+    "static/js/2.5c8b95ea.chunk.js.LICENSE.txt": "/bizino-website-version3/static/js/2.5c8b95ea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bizino-website-version3/static/media/Background-3.2.9f8449ce.png",
+    "static/media/Bizino-data-science-logo.jpg": "/bizino-website-version3/static/media/Bizino-data-science-logo.876708f2.jpg",
+    "static/media/Website-Background-Video.mp4": "/bizino-website-version3/static/media/Website-Background-Video.91059800.mp4",
+    "static/media/contactImg.jpg": "/bizino-website-version3/static/media/contactImg.b305d07d.jpg",
+    "static/media/valueproposition-bg-blurred.jpg": "/bizino-website-version3/static/media/valueproposition-bg-blurred.7a2896ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456b9f76.js",
+    "static/js/2.5c8b95ea.chunk.js",
+    "static/css/main.4b09e082.chunk.css",
+    "static/js/main.692377da.chunk.js"
+  ]
+}
