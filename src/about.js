@@ -68,7 +68,7 @@ const about=()=>{
 
           <p className='innovative-text'>
             <ul>
-              <li>
+              <li className="harry">
                 Building data-centric, AI and Analytics-powered Digital Operating
                 Models.
               </li>

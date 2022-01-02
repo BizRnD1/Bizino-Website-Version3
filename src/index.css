@@ -709,6 +709,7 @@ Stripe Styles
   margin-bottom: 1.5rem;
 }
 
+
 .skill {
   
   padding: 2.5rem 1.5rem 0rem 1.5rem;
@@ -766,7 +767,7 @@ b{
 
 @media screen and (min-width: 1200px) {
   .skill {
-    width: 25%;
+    width: 33.33%;
   }
 }
 
@@ -816,4 +817,8 @@ b{
 
 .company {
   color: var(--clr-primary);
+}
+
+.innovative-text ul li{
+  color: white;
 }
