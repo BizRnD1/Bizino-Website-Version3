@@ -23,7 +23,7 @@ const Offerings = () => {
           <br></br>Powered by...
         </h4>
         {powered.map((power) => {
-          return <p className='offering-text'>{power.label}</p>;
+          return <p className='offering-text powered-by-text'>{power.label}</p>;
         })}
       </section>
       

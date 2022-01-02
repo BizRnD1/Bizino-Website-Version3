@@ -16,8 +16,8 @@ const Header = () => {
         ></source>
       </video> */}
       <div className='banner'>
-        <h1>We Enable Insights Driven Decision Making</h1>
-        <h2>Powered by Advanced Analytics, Artificial Intelligence and Machine Learning </h2>
+        <h1>We Enable Quick and Better Insights Driven Decision Making</h1>
+        <h2>Powered by Advanced Analytics, Artificial Intelligence and Machine Learning, Advanced Visualization and Dashboards </h2>
       </div>
     </header>
   );

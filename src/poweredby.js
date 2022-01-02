@@ -6,7 +6,7 @@ const powered = [
   },
   {
     label:
-      "Extensive research in INSIGHTS-driven DECISION-MAKING best practices",
+      "Extensive research in INSIGHTS-DRIVEN DECISION-MAKING best practices",
   },
   {
     label:
@@ -17,7 +17,7 @@ const powered = [
   },
   {
     label:
-      "State-of-the-art 400K+ curated KNOWLEDGE ASSETS – Technology, Business and Management, Code.",
+      "State-of-the-art 400K+ curated KNOWLEDGE ASSETS – Technology, Business and Management, Code",
   },
   {
     label:
@@ -25,7 +25,7 @@ const powered = [
   },
   {
     label:
-      "Deep Knowledge of DIGITAL ECOSYSTEM – Analytics, AI-ML, Big Data, Cloud, Data Engineering, Software Engineering",
+      "Deep Knowledge of DIGITAL ECOSYSTEM – Analytics, AI-ML, ML Ops, Big Data, Cloud, Data and Software Engineering",
   },
   {
     label:
@@ -33,11 +33,11 @@ const powered = [
   },
   {
     label:
-      "Proven BEST PRACTICES, many Proof of Concepts (POCs), USE CASE implementation",
+      "Proven BEST PRACTICES, Reference Architectures, many Proof of Concepts (POCs), USE CASE implementations",
   },
   {
     label:
-      "Experience of architecting & delivering complex ENTERPRISE APPLICATIONS",
+      "Experience of architecting & delivering complex, scalable ENTERPRISE APPLICATIONS",
   },
   {
     label:
@@ -49,7 +49,7 @@ const powered = [
   },
   {
     label:
-      "Experience of setting up COEs in EMERGING areas for DIVERSE Industries",
+      "Experience of setting up COEs/PRACTICES/INNOVATION LABS in EMERGING areas for DIVERSE Industries",
   },
   {
     label:

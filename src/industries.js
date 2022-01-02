@@ -2,20 +2,36 @@
 
 const industries = [
   {
-    title: "IT, ITeS EDUCATION",
-    url: "#ii",
+    title: "INFORMATION TECHNOLOGY, ITeS",
+    url: "#it",
   },
   {
     title: "MANUFACTURING",
     url: "#mof",
   },
   {
-    title: "SUPPLY CHAIN",
+    title: "SUPPLY CHAINS",
     url: "#sc",
   },
   {
-    title: "FINANCE",
+    title: "FINANCE, FINTECH",
     url: "#fin",
+  },
+  {
+      title: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING",
+      url: "#ete",
+  },
+  {
+    title: "OPERATIONS",
+    url: "#ops",
+  },
+  {
+    title: "MARKETING and MARKETING RESERACH",
+    url: "#mr",
+  },
+  {
+    title: "TALENT MANAGEMENT",
+    url: "#tm",
   },
 ];
 

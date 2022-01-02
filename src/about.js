@@ -35,16 +35,16 @@ const about=()=>{
             increased customer churn and employee attrition.
           </p>
           <p>
-            At Bizino, we have done extensive research & development on
-            potential structural & sustainable solutions to similar pain areas
-            founders experienced over past 2.5 decades, while working for large
-            global & domestic companies in diverse industries. Bizino has done
-            significant investments in setting up an “Advanced Analytics & AI-ML
+            At Bizino, we have done extensive research and development on
+            potential structured and sustainable solutions to similar pain areas
+            founders experienced over the past 3 decades, while working for large
+            global and domestic companies in diverse industries. Bizino has done
+            significant investments in setting up an “Advanced Analytics and AI-ML
             Innovation Lab” focusing on extracting value from data,
             insights-driven decision making, trade-off analysis, raising early
-            alerts, designing new metrics, simulating complexity & future
+            alerts, designing new metrics, simulating complexity and future
             scenarios. We have built state-of-the-art knowledge base and library
-            comprised of advanced tool-kits, techniques, algorithms, practices &
+            comprised of advanced tool-kits, techniques, algorithms, practices and
             POCs at our disposal, which enable us to provide right-fit solution
             quickly.
           </p>
@@ -61,15 +61,15 @@ const about=()=>{
 
         <section className='clearfix'>
           <h2 className='value-subtitle'>
-            Innovative products, solutions and services
+            Our Value Proposition is to provide INNOVATIVE products, solutions and services with world-class QUALITY, at COMPETITIVE price and RELIABLE service.
           </h2>
 
-          <h4 className='value-sub-subtitle'>SPECIALIZE IN</h4>
+          <h4 className='value-sub-subtitle'>We SPECIALIZE in</h4>
 
           <p className='innovative-text'>
             <ul>
               <li>
-                Building data-centric, AI & Analytics-powered Digital Operating
+                Building data-centric, AI and Analytics-powered Digital Operating
                 Models.
               </li>
               <li>
@@ -77,13 +77,13 @@ const about=()=>{
                 AI-Analytics CoEs.
               </li>
               <li>
-                Building rapid AI-Analytics prototypes, Frameworks & scalable
+                Building rapid AI-Analytics prototypes, Frameworks and scalable
                 Digital platforms, Knowledge platforms; End-to-end AI-powered
                 ENT. Apps.
               </li>
               <li>
-                Solving complex, challenging biz. problems using right,
-                state-of-the-art tools, techniques, technologies & algorithms
+                Solving complex, challenging business problems using right,
+                state-of-the-art tools, techniques, technologies and algorithms
                 from our rich Knowledge Base.
               </li>
             </ul>
@@ -92,15 +92,15 @@ const about=()=>{
             <ul>
               <li>
                 Preparing workforce on essential new-age skills to respond
-                quickly to changing customer demands, to sense & adapt to
+                quickly to changing customer demands, to sense and adapt to
                 changes, to raise early alerts, to build intelligent products,
-                solutions & services, to practice insights-driven
-                decision-making culture for better efficiency, effectiveness &
+                solutions and services, to practice insights-driven
+                decision-making culture for better efficiency, effectiveness and
                 agility.
               </li>
 
               <li>
-                Sensing global tech. disruptions, trends as early as possible to
+                Sensing global technology disruptions, trends as early as possible to
                 prepare organizations for minimizing impact and creating
                 distinctive competency.
               </li>
