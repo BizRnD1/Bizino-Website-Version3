@@ -260,6 +260,37 @@ letter-spacing: var(--spacing);
   /* text-shadow: 2px 3px 10px var(--clr-grey-5); */
 }
 
+@media screen and (max-width: 1400px) {
+  .banner h1{
+    font-size: 3rem;
+    letter-spacing: 3px;
+  }
+  .banner h2{
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .banner h1{
+    font-size: 2rem;
+    letter-spacing: 3px;
+  }
+  .banner h2{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .banner h1{
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+    
+  }
+  .banner h2{
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+}
 
 /*
 =============== 
@@ -566,8 +597,13 @@ Stripe Styles
 .submenu-center {
   position: relative;
   display: grid;
-  gap: 0.25rem 2rem;
+  gap: 1rem 2.5rem;
 }
+
+.sub-url{
+  margin-bottom: 1rem;
+}
+
 .col-2 {
   grid-template-columns: repeat(2, 1fr);
 }
@@ -731,10 +767,21 @@ Stripe Styles
   /* border: 1px solid var(--clr-grey-7); */
 }
 
-.unique{
-  background-color: white;
+/* unique */
+.section-unique{
+  padding: 2.5rem 0rem 0rem 1.5rem;
+  transition: var(--transition);
 }
 
+.section-unique:hover{
+  
+  background: var(--clr-white);
+  box-shadow: 1px 1px 3px var(--clr-grey-7); 
+}
+
+.unique-text{
+  padding: 1rem;
+}
 .founder{
   font-family: var(--ff-primary);
   letter-spacing: var(--spacing);
@@ -821,4 +868,12 @@ b{
 
 .innovative-text ul li{
   color: white;
+}
+
+.henlo{
+  border: solid 1px var(--clr-grey-7);
+}
+
+.section-unique{
+  margin-top: 0rem;
 }

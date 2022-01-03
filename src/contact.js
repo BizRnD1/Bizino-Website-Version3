@@ -10,7 +10,6 @@ const contact =()=>{
             {" "}
             Contact us
           </h1>
-          <p className='contactus-text'>YOU CAN REACH OUT TO US AT</p>
           <p className='contactus-text'>
             <i>
               <strong>contactus@bizino.biz</strong>

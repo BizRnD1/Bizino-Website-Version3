@@ -4,47 +4,51 @@ const sublinks = [
     page: "Services",
     links: [
       {
-        label: "DATA-CENTRIC STRATEGY",
+        label: "DATA-CENTRIC EXECUTABLE STRATEGY",
         url: "#dcs",
       },
       {
-        label: "DATA-DRIVEN DECISION FRAMEWORKS",
+        label: "DATA-DRIVEN DECISION ENGINES and OPERATING MODELS",
         url: "#dddf",
       },
       {
-        label: "ADVANCED ANALYTICS, DATA SCIENCE, AI-ML",
+        label: "ADVANCED ANALYTICS, DATA SCIENCE, AI-ML CoEs",
         url: "#aadsam",
       },
       {
-        label: "ADVANCED VISUALIZATION, DASHBOARDS",
+        label: "ADVANCED VISUALIZATION and DASHBOARDS CoEs",
         url: "#avd",
       },
       {
-        label: "AI-POWERED INTELLIGENT APPS",
-        url: "#apia",
-      },
-      {
-        label: "DATA ENGINEERING",
+        label: "DATA ENGINEERING, DATA GOVERNANCE CoEs",
         url: "#de",
       },
       {
-        label: "DATA-CENTRIC CAPABILITY BUILDING",
-        url: "#dccb",
+        title: "END TO END AI-ML APPLICATIONS - DESIGN, BUILD, ML Ops",
+        url: "#hs",
       },
       {
-        title: "Harry Styles for life",
-        url: "#hs",
+        label: "ANALYTICS, AI-POWERED INTELLIGENT APPS, AUTOMATION",
+        url: "#apia",
+      },
+
+      {
+        label: "DATA-CENTRIC CAPABILITY and COMPETENCY BUILDING",
+        url: "#dccb",
       },
     ],
   },
   {
     page: "Industries",
     links: [
-      { label: "IT, ITeS", url: "#ii" },
+      { label: "INFORMATION TECHNOLOGY, ITeS", url: "#it" },
       { label: "MANUFACTURING", url: "#mof" },
-      { label: "SUPPLY CHAIN", url: "#sc" },
-      { label: "FINANCE", url: "#fin" },
-      { label: "EDUCATION", url: "#li" },
+      { label: "SUPPLY CHAINS", url: "#sc" },
+      { label: "FINANCE, FINTECH", url: "#fin" },
+      { label: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING", url: "#ete" },
+      { label: "OPERATIONS", url: "#ops" },
+      { label: "MARKETING and MARKETING RESERACH", url: "#mr" },
+      { label: "TALENT MANAGEMENT", url: "#tm" },
     ],
   },
 
