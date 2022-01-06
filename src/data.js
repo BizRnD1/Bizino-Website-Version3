@@ -5,50 +5,50 @@ const sublinks = [
     links: [
       {
         label: "DATA-CENTRIC EXECUTABLE STRATEGY",
-        url: "#dcs",
+        url: "#one",
       },
       {
         label: "DATA-DRIVEN DECISION ENGINES and OPERATING MODELS",
-        url: "#dddf",
+        url: "#one",
       },
       {
         label: "ADVANCED ANALYTICS, DATA SCIENCE, AI-ML CoEs",
-        url: "#aadsam",
+        url: "#one",
       },
       {
         label: "ADVANCED VISUALIZATION and DASHBOARDS CoEs",
-        url: "#avd",
+        url: "#one",
       },
       {
         label: "DATA ENGINEERING, DATA GOVERNANCE CoEs",
-        url: "#de",
+        url: "#one",
       },
       {
         title: "END TO END AI-ML APPLICATIONS - DESIGN, BUILD, ML Ops",
-        url: "#hs",
+        url: "#one",
       },
       {
         label: "ANALYTICS, AI-POWERED INTELLIGENT APPS, AUTOMATION",
-        url: "#apia",
+        url: "#one",
       },
 
       {
         label: "DATA-CENTRIC CAPABILITY and COMPETENCY BUILDING",
-        url: "#dccb",
+        url: "#one",
       },
     ],
   },
   {
     page: "Industries",
     links: [
-      { label: "INFORMATION TECHNOLOGY, ITeS", url: "#it" },
-      { label: "MANUFACTURING", url: "#mof" },
-      { label: "SUPPLY CHAINS", url: "#sc" },
-      { label: "FINANCE, FINTECH", url: "#fin" },
-      { label: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING", url: "#ete" },
-      { label: "OPERATIONS", url: "#ops" },
-      { label: "MARKETING and MARKETING RESERACH", url: "#mr" },
-      { label: "TALENT MANAGEMENT", url: "#tm" },
+      { label: "INFORMATION TECHNOLOGY, ITeS", url: "#two" },
+      { label: "MANUFACTURING", url: "#two" },
+      { label: "SUPPLY CHAINS", url: "#two" },
+      { label: "FINANCE, FINTECH", url: "#two" },
+      { label: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING", url: "#two" },
+      { label: "OPERATIONS", url: "#two" },
+      { label: "MARKETING and MARKETING RESERACH", url: "#two" },
+      { label: "TALENT MANAGEMENT", url: "#two" },
     ],
   },
 

@@ -3,36 +3,36 @@
 const offering = [
   {
     title: "DATA-CENTRIC EXECUTABLE STRATEGY",
-    url: "dcs",
+    url: "one",
   },
   {
     title: "DATA-DRIVEN DECISION ENGINES and OPERATING MODELS",
-    url: "dddf",
+    url: "one",
   },
   {
     title: "ADVANCED ANALYTICS, DATA SCIENCE, AI-ML CoEs",
-    url: "aadsam",
+    url: "one",
   },
   {
     title: "ADVANCED VISUALIZATION and DASHBOARDS CoEs",
-    url: "avd",
+    url: "one",
   },
   {
     title: "DATA ENGINEERING, DATA GOVERNANCE CoEs",
-    url: "de",
+    url: "one",
   },
   {
     title: "END TO END AI-ML APPLICATIONS - DESIGN, BUILD, ML Ops",
-    url: "hs",
+    url: "one",
   },
   {
     title: "ANALYTICS, AI-POWERED INTELLIGENT APPS, AUTOMATION",
-    url: "apia",
+    url: "one",
   },
   {
     title: "DATA-CENTRIC CAPABILITY and COMPETENCY BUILDING",
-    url: "dccb",
+    url: "one",
   },
- ];
+];
 
 export default offering;

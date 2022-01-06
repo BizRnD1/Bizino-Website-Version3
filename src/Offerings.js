@@ -10,12 +10,13 @@ const Offerings = () => {
         <section id='services'></section>
         <br />
         <h1 className='section-title'>Services</h1>
-        <h3 className='offering-subtitle clearfix'>
+        
+        <h3 className='offering-subtitle clearfix' id="one">
           Bizino Digital Offerings for Data-centric, Advanced Analytics and
           AI-powered Digital Business, and Operating Models
         </h3>
         {offering.map((offer) => {
-          return <p className='offering-text' id={offer.url}>{offer.title}</p>;
+          return <p className='offering-text'>{offer.title}</p>;
         })}
         ;
         <h4 className='offering-subtitle clearfix'>
@@ -26,11 +27,11 @@ const Offerings = () => {
           return <p className='offering-text powered-by-text'>{power.label}</p>;
         })}
       </section>
-      
+
       <section className='section-center clearfix'>
         <section id='industries'></section>
         <br />
-        <h1 className='section-title clearfix'>
+        <h1 className='section-title clearfix' id="two">
           {/* <br /> */}
           Industries
         </h1>

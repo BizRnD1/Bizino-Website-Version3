@@ -3,35 +3,35 @@
 const industries = [
   {
     title: "INFORMATION TECHNOLOGY, ITeS",
-    url: "#it",
+    url: "#two",
   },
   {
     title: "MANUFACTURING",
-    url: "#mof",
+    url: "#two",
   },
   {
     title: "SUPPLY CHAINS",
-    url: "#sc",
+    url: "#two",
   },
   {
     title: "FINANCE, FINTECH",
-    url: "#fin",
+    url: "#two",
   },
   {
-      title: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING",
-      url: "#ete",
+    title: "EDUCATIONAL TECHNOLOGY (EDTECH), eLEARNING",
+    url: "#two",
   },
   {
     title: "OPERATIONS",
-    url: "#ops",
+    url: "#two",
   },
   {
     title: "MARKETING and MARKETING RESERACH",
-    url: "#mr",
+    url: "#two",
   },
   {
     title: "TALENT MANAGEMENT",
-    url: "#tm",
+    url: "#two",
   },
 ];
 
