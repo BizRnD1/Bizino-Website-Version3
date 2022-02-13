@@ -15,12 +15,17 @@ const Submenu = () => {
     const { center, bottom } = location;
     submenu.style.left = `${center}px`;
     submenu.style.top = `${bottom}px`;
+    var w = window.innerWidth;
     console.log(links);
     if (links.length === 3) {
       setColumns("col-3");
     }
     if (links.length > 3) {
       setColumns("col-4");
+    }
+    if(w<=1450)
+    {
+      setColumns("col-2"); 
     }
   }, [page, location, links]);
   return (

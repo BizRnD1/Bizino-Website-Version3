@@ -547,7 +547,7 @@ Stripe Styles
 .sidebar-sublinks a {
   display: block;
   color: var(--clr-grey-1);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   display: flex;
   align-items: center;
 }
@@ -620,9 +620,9 @@ Stripe Styles
   width: 10rem;
   display: block;
   color: var(--clr-grey-1);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   display: flex;
-  align-items: center;
+  align-items: top;
 }
 .submenu-center svg {
   color: var(--clr-grey-5);

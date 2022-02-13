@@ -12,6 +12,21 @@ const Navbar = () => {
     const bottom = tempBtn.bottom - 3;
     openSubmenu(page, { center, bottom });
   };
+  function ser() {
+    var elmnt = document.getElementById("services");
+
+    elmnt.scrollIntoView();
+  }
+  function ind() {
+    var elmnt = document.getElementById("industries");
+
+    elmnt.scrollIntoView();
+  }
+  function abt() {
+    var elmnt = document.getElementById("about");
+
+    elmnt.scrollIntoView();
+  }
   const handleSubmenu = (e) => {
     if (!e.target.classList.contains("link-btn")) {
       closeSubmenu();
@@ -28,19 +43,31 @@ const Navbar = () => {
         </div>
         <ul className='nav-links'>
           <li>
-            <button className='link-btn' onMouseOver={displaySubmenu}>
-              <a href='#services'>Services</a>
+            <button
+              className='link-btn'
+              onClick={ser}
+              onMouseOver={displaySubmenu}
+            >
+              Services
             </button>
           </li>
 
           <li>
-            <button className='link-btn' onMouseOver={displaySubmenu}>
-              <a href='#industries'>Industries</a>
+            <button
+              className='link-btn'
+              onClick={ind}
+              onMouseOver={displaySubmenu}
+            >
+              Industries
             </button>
           </li>
           <li>
-            <button className='link-btn' onMouseOver={displaySubmenu}>
-              <a href='#about'>About</a>
+            <button
+              className='link-btn'
+              onClick={abt}
+              onMouseOver={displaySubmenu}
+            >
+              About
             </button>
           </li>
         </ul>

@@ -93,14 +93,14 @@ const we = () => {
                   9001, ISO 27000, TOGAF, etc.
                 </li>
                 <li>
-                  45+ Certifications: DATA SCIENCE & MACHINE LEARNING,
+                  50+ Certifications: DATA SCIENCE & MACHINE LEARNING,
                   COMPUTATIONAL THINKING & DATA SCIENCE, TOGAF Enterprise
                   Architect, PMP, PRINCE2, ISEB Software Testing, IFPUG Function
                   Point Analysis, etc.
                 </li>
                 <li>
                   Qualifications: MBA, PG & Advanced PG in Software Technology,
-                  Quality Management, BE Mechanical, BE Electronic
+                  Quality Management, BE Mechanical, BE Electronics.
                 </li>
               </ul>
             </p>

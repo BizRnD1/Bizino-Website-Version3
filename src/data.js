@@ -8,7 +8,7 @@ const sublinks = [
         url: "#one",
       },
       {
-        label: "DATA-DRIVEN DECISION ENGINES and OPERATING MODELS",
+        label: "DATA-DRIVEN DECISION ENGINES, OPERATING MODELS",
         url: "#one",
       },
       {
@@ -24,7 +24,7 @@ const sublinks = [
         url: "#one",
       },
       {
-        title: "END TO END AI-ML APPLICATIONS - DESIGN, BUILD, ML Ops",
+        label: "END TO END AI-ML APPLICATIONS - DESIGN, BUILD, ML Ops",
         url: "#one",
       },
       {
